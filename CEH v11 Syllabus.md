@@ -93,14 +93,14 @@
 - [ ] Social Engineering Pen Testing (Day 9)
 
 ### Module 10: Denial-of-Service2 Hours - 8 Topics
--[ ] DoS/DDos Concepts (Day 10)
--[ ] DoS/DDos Attack Techniques (Day 10)
--[ ] Botnets (Day 10)
--[ ] DDoS Case Study (Day 10)
--[ ] DoS/DDos Attack Tools (Day 10)
--[ ] Countermeasures (Day 10)
--[ ] DoS/DDos Protection Tools (Day 10)
--[ ] DoS/DDos Penetration Testing (Day 10)
+- [ ] DoS/DDos Concepts (Day 10)
+- [ ] DoS/DDos Attack Techniques (Day 10)
+- [ ] Botnets (Day 10)
+- [ ] DDoS Case Study (Day 10)
+- [ ] DoS/DDos Attack Tools (Day 10)
+- [ ] Countermeasures (Day 10)
+- [ ] DoS/DDos Protection Tools (Day 10)
+- [ ] DoS/DDos Penetration Testing (Day 10)
 
 ### Module 11: Session Hijacking2 Hours - 6 Topics
 - [ ] Session Hijacking Concepts (Day 11)
