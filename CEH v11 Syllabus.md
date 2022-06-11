@@ -1,6 +1,8 @@
 # CEH v11 Syllabus
 
-### Module 01: Introduction to Ethical Hacking2 Hours - 7 Topics
+### Module 01: 
+> Introduction to Ethical Hacking
+> `2 Hours` - `7 Topics`
 - [ ] Information Security Overview (Day 1)
 - [ ] Information Security Threats and Attack Vectors (Day 1)
 - [ ] Hacking Concepts (Day 1)
@@ -11,7 +13,7 @@
 
 ### Module 02: 
 > Footprinting and Reconnaissance
-- `2 Hours` - `14 Topics`
+> `2 Hours` - `14 Topics`
 - [ ] Footprinting Concepts (Day 2)
 - [ ] Footprinting through Search Engines (Day 2)
 - [ ] Footprinting through Web Services (Day 2)
@@ -27,7 +29,9 @@
 - [ ] Footprinting Countermeasures (Day 2)
 - [ ] Footprinting Penetration Testing (Day 2)
 
-### Module 03: Scanning Networks2 Hours - 7 Topics
+### Module 03: 
+> Scanning Networks
+> `2 Hours` - `7 Topics`
 - [ ] Network Scanning Concepts (Day 3)
 - [ ] Scanning Tools (Day 3)
 - [ ] Scanning Techniques (Day 3)
@@ -36,7 +40,9 @@
 - [ ] Draw Network Diagrams (Day 3)
 - [ ] Scanning Pen Testing (Day 3)
 
-### Module 04: Enumeration2 Hours - 8 Topics
+### Module 04: 
+> Enumeration
+> `2 Hours` - `8 Topics`
 - [ ] Enumeration Concepts (Day 4)
 - [ ] NetBIOS Enumeration (Day 4)
 - [ ] SANP Enumeration (Day 4)
@@ -46,14 +52,18 @@
 - [ ] Enumeration Countermeasures (Day 4)
 - [ ] Enumeration Pen Testing (Day 4)
 
-### Module 05:Vulnerability Analysis2 Hours - 5 Topics
+### Module 05:
+> Vulnerability Analysis
+> `2 Hours` - `5 Topics`
 - [ ] Vulnerability Assessment Concepts (Day 5)
 - [ ] Vulnerability Assessment Solutions (Day 5)
 - [ ] Vulnerability Scoring Systems (Day 5)
 - [ ] Vulnerability Assessment Tools (Day 5)
 - [ ] Vulnerability Assessment Reports (Day 5)
 
-### Module 06: System Hacking2 Hours - 7 Topics
+### Module 06: 
+> System Hacking
+> `2 Hours` - `7 Topics`
 - [ ] System Hacking Concepts (Day 6)
 - [ ] Cracking Passwords (Day 6)
 - [ ] Escalating Privileges (Day 6)
@@ -62,7 +72,9 @@
 - [ ] Covering Tracks (Day 6)
 - [ ] Penetration Testing (Day 6)
 
-### Module 07: Malware Threats2 Hours - 7 Topics
+### Module 07: 
+> Malware Threats
+> `2 Hours` - `7 Topics`
 - [ ] Malware Concepts (Day 7)
 - [ ] Trojan Concepts (Day 7)
 - [ ] Virus and Worm Concepts (Day 7)
