@@ -1,6 +1,7 @@
 # CEH
 CEH ~ Certified Ethical Hacker
 
+- [Certified ethical hacker in bullet points](https://github.com/undergroundwires/CEH-in-bullet-points)
 ---
 
 # Introducing All New CEHv11
